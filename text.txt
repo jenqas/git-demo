@@ -1,9 +1,5 @@
 first row
 second row
-3d row
-4 row
-
-5 and 6 row
 
 NEW Feature description
 NEW Feature concept
